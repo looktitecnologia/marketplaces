@@ -10,9 +10,8 @@ PartnerKey
 ShopId
 BaseUrl
 
-=====================================
+
 Funções
-=====================================
 
 GerarTokenAcesso
 RenovarTokenAcesso
